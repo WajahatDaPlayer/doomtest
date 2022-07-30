@@ -4,7 +4,7 @@
   padding: 0;
 }
 .container {
-  padding: 20px;
+  
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(250px, 750px));
   justify-content: center;
