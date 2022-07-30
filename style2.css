@@ -78,7 +78,7 @@
 }
 @media (min-width: 1024px) {
   .container {
-    grid-template-columns: repeat(2, 48vw);
+    grid-template-columns: repeat(2, 1fr);
   }
   .boxes {
     height: 600px;
